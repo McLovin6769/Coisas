@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+    <head>
+    <body>
+        <h2>Minha tabela HTML</h2>
+    
+        <table>
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Idade</th>
+                    <th>Seleção</th>
+                <tr>
+            </thead>
+                <tr>
+                    <td>Cristiano Ronaldo</td>
+                    <td>41</td>
+                    <td>Portugal</td>
+                </tr>
+                <tr>
+                    <td>Lionel Messi</td>
+                    <td>38</td>
+                    <td>Argentina</td>
+                </tr>
+                <tr>
+                    <td>Neymar</td>
+                    <td>34</td>
+                    <td>Brasil</td>
