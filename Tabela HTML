@@ -1,30 +1,37 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
     <head>
         <meta charset="UTF-8">
-    <head>
+        <title>Trio lendário</title>
+    </head>
+
     <body>
-        <h2>Minha tabela HTML</h2>
-    
+        <h1>Os três malvados</h1>
+        <p>Há momentos na história do esporte em que somos agraciados não apenas com um craque, mas com uma constelação de talentos que redefine o que acreditávamos ser o limite. Cristiano Ronaldo, Lionel Messi e Neymar Jr. formam esse triunvirato inesquecível que dominou o futebol mundial nas últimas décadas. Eles não jogaram apenas o jogo; eles desenharam novas fronteiras para a genialidade.</p>
+        <img src="trio.jpeg" alt="Jogadores" style="width:640px;height:360px;">
+        <h2>Tabela dos jogadores:</h2>
         <table>
-            <thead>
-                <tr>
-                    <th>Nome</th>
-                    <th>Idade</th>
-                    <th>Seleção</th>
-                <tr>
-            </thead>
-                <tr>
-                    <td>Cristiano Ronaldo</td>
-                    <td>41</td>
-                    <td>Portugal</td>
-                </tr>
-                <tr>
-                    <td>Lionel Messi</td>
-                    <td>38</td>
-                    <td>Argentina</td>
-                </tr>
-                <tr>
-                    <td>Neymar</td>
-                    <td>34</td>
-                    <td>Brasil</td>
+            <tr>
+                <th>Nome</th>
+                <th>Idade</th>
+                <th>Seleção</th>
+            <tr>
+        </thead>
+            <tr>
+                <td>CR7</td>
+                <td>41</td>
+                <td>Portugal</td>
+            </tr>
+            <tr>
+                <td>Messi</td>
+                <td>38</td>
+                <td>Argentina</td>
+            </tr>
+            <tr>
+                <td>Neymar</td>
+                <td>34</td>
+                <td>Brasil</td>
+            </tr>
+        </table>
+            <h1>O Legado Conjunto</h1>
+            <p>Embora rivais em campo em muitas ocasiões, os três se respeitam mutuamente, reconhecendo a grandeza um do outro. Juntos, eles proporcionaram clássicos inesquecíveis, premiações eletrizantes e uma quantidade incalculável de gols e assistências que ficarão para sempre na memória dos amantes do futebol.</p>
