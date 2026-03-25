@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Site OpenAI</title>
+    </head>
+    <body>
+        <img src="images-removebg-preview.png" alt="OpenAI Logo" style="display: block; margin: 0 auto;">
+        <h1 style="text-align: center;">OpenAI</h1>
+        <h3>A OpenAI é uma organização de pesquisa e implantação de inteligência artificial (IA) focada em desenvolver tecnologias avançadas que beneficiem toda a humanidade. Fundada em dezembro de 2015, ela se tornou um dos principais nomes na área de IA generativa, responsável pela criação de ferramentas populares como o ChatGPT, DALL-E (geração de imagens) e Sora (geração de vídeos, com foco atual em ferramentas profissionais).</h3>
+    </body>
