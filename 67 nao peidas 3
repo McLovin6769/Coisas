@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Login OpenAI</title>
+    </head>
+    <body>
+        <img src="images-removebg-preview.png" alt="OpenAI Logo" style="display: block; margin: 0 auto;">
+        <h1 style="text-align: center;">Entre na sua conta!</h1>
+        <p style="text-align: center;">Digite o seu e-mail: <input></p>
+        <p style="text-align: center;">Digite a sua senha: <input></p>
+        <p style="text-align: center;"><button>Enviar</button>
+    </body>
