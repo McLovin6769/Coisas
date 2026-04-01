@@ -1,9 +1,22 @@
 <!DOCTYPE html>
-    <head>
+<head>
         <meta charset="UTF-8">
-        <title>Login OpenAI</title>
+        <title>Produtos OpenAI</title>
     </head>
     <body>
-        <img src="images-removebg-preview.png" alt="OpenAI Logo" style="display: block; margin: 0 auto;">
-      <h1 style="text-align: center;">Produtos</h1>
-       <img src="imagens
+        <h2 style="text-align: center;">Produtos</h2>
+        <h1 style="text-align: center;">GPT-5.4</h1>
+        <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="images-removebg-preview.png">
+        <h3>A melhor inteligência em escala para fluxos de trabalho de agentes, codificação e profissionais.</h3>
+        </div>
+        <h1 style="text-align: center;">GPT-5.4 mini</h1>
+        <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="images-removebg-preview.png">
+        <h3>O modelo em miniatura mais robusto até o momento para codificação, uso de computadores e subagentes.</h3>
+        </div>
+        <h1 style="text-align: center;">GPT-5.4 nano</h1>
+        <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="images-removebg-preview.png">
+        <h3>O modelo mais econômico da classe GPT-5.4 para tarefas simples de alto volume.</h3>
+        </div>
