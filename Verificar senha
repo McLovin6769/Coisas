@@ -1,0 +1,12 @@
+import javax.swing.*;
+import javax.swing.JOptionPane.*;
+public class Main {
+    public static void main(String[] args) {
+        String senha = JOptionPane.showInputDialog("Digite a sua senha: ");
+        if (senha.equals("ABCD")) {
+            JOptionPane.showMessageDialog(null, "Acesso permitido.");
+        } else {
+            JOptionPane.showMessageDialog(null, "Acesso negado.");
+        }
+    }
+}
