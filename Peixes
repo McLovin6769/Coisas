@@ -1,0 +1,16 @@
+import javax.swing.*;
+import javax.swing.JOptionPane.*;
+public class Main {
+    public static void main(String[] args) {
+        double peso = Double.parseDouble(JOptionPane.showInputDialog(null, "Digite o seu peso total de peixes (kg): "));
+        double excesso = 0;
+        double multa = 0;
+        if (peso > 50) {
+            excesso = (peso - 50);
+            multa = (excesso * 4);
+            JOptionPane.showMessageDialog(null,"Excesso: " + excesso);
+            JOptionPane.showMessageDialog(null,"Multa a ser paga: " + "R$ " + multa);
+        } else
+            JOptionPane.showMessageDialog(null,"O peso está dentro do limite. Não há multa.");
+    }
+}
