@@ -1,0 +1,13 @@
+import javax.swing.*;
+import javax.swing.JOptionPane.*;
+public class Main {
+    public static void main(String[] args) {
+        int ano = Integer.parseInt(JOptionPane.showInputDialog(null, "Qual o ano do seu nascimento?"));
+        int idade = (2026 - ano);
+        if (idade >= 18) {
+            JOptionPane.showMessageDialog(null, "Você tem " + idade+" anos e atingiu a maioridade.");
+        } else {
+            JOptionPane.showMessageDialog(null, "Você tem " + idade+" anos e ainda é menor.");
+        }
+    }
+}
