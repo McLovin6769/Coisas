@@ -6,9 +6,6 @@ public class Main {
         int df = 0;
         for (num_des = 0; num_des <= 15; num_des++) {
             i = Integer.parseInt(JOptionPane.showInputDialog(null, "Digite 15 numeros, você ja digitou " + num_des));
-            if (i > 30) {
-                df++;
-            }
             if (num_des == 15) {
                 JOptionPane.showMessageDialog(null, "Dos " + num_des + " numeros digitados, " + df + " sao maiores que 30.");
             }
