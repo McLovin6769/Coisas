@@ -1,0 +1,13 @@
+import javax.swing.JOptionPane;
+public class Main {
+    public static void main(String[] args) {
+        for (int i = 1; i < 10; i++) {
+            // O "for" é simples e limita o contador
+            if (i % 2 != 0) {
+                //Condição de ser ímpar
+                JOptionPane.showMessageDialog(null, "Número: " + i); {
+                }
+            }
+        }
+    }
+}
