@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        // O loop 'for' vai de 75 até 196
         for (int i = 75; i < 197; i++) {
-            // Verifica se o número é ímpar
+            // O loop 'for' vai de 75 até 196
             if (i % 2 != 0) {
+                // Verifica se o número é ímpar
                 System.out.println("Número: " + i);
             }
         }
